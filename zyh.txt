@@ -1,6 +1,1 @@
-wo zai lai gei yi gai
-add more info  ++error version
-new line 新添加一行
-second line 再添加一行
-老板是SB
-sdfgdfgdfgdddddddE
+学习使用git
